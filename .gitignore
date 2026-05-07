@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Maven / Gradle
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
